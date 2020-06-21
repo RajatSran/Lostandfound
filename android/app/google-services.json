@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738280059932",
+    "firebase_url": "https://nulaundry-a4c31.firebaseio.com",
+    "project_id": "nulaundry-a4c31",
+    "storage_bucket": "nulaundry-a4c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738280059932:android:26ddbf51f37599c18d9bd9",
+        "android_client_info": {
+          "package_name": "com.example.metroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738280059932-bptf178ivvctdpo9efhlkrg1io8tnrih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjQUsKqoqPphthFNyW8UUZ5DV9os9wk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738280059932-bptf178ivvctdpo9efhlkrg1io8tnrih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
